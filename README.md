@@ -178,7 +178,7 @@
 #### 3.0.1 UI体系
 为了更好地实现功能，我们在UI设计时遵循了Apple生态UI设计规范。
 
-![image-20210809200510925](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809200510925.png)
+![设计规范](images/设计规范.png)
 
 在Apple设计规范中，有四大原则，分别是：Flexible(灵活性)、Expansive(可拓展性)、Capable(功能满足性)、Focused(聚焦性)。即，在UI设计中需要保证整体设计的灵活性，不能死板而丧失拓展空间；同时要保证UI设计满足功能需要，能够很好地承载目标功能；同时，设计需要突出聚焦的功能，让使用者能过专注于正在使用的功能和界面。
 
@@ -186,11 +186,11 @@
 
 借助Figma这样的主流UI设计软件，我们确定了以下两个基本设计模板：
 
-![image-20210809201828196](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809201828196.png)
+![功能模板](images/功能模板.png)
 
 功能性UI模板
 
-![image-20210809201849907](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809201849907.png)
+![内容模板](images/内容模板.png)
 
 内容性UI模板
 
@@ -198,19 +198,19 @@
 
 在主视觉系统上，我们选用了同济大学特色的蓝白色系进行搭配。
 
-<img src="C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809203355860.png" alt="image-20210809203355860"  />
+<img src="images/tj1.png" alt="tj1" style="zoom:67%;" />
 
-![image-20210809203448366](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809203448366.png)
+![tj2](images/tj2.png)
 
-![image-20210809203621562](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809203621562.png)
+![cl1](images/cl1.png)
 
 主视觉蓝色（Peimary Color）的十六进制色号为“#0D6EFD”，与之搭配的色卡为：
 
-![image-20210809203605521](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809203605521.png)
+![cl2](images/cl2.png)
 
 基于此，同时依据SmartBootstrap提供的模板样式，我们在项目中采用了以下色彩搭配。
 
-![image-20210809205345143](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809205345143.png)
+![cl3](images/cl3.png)
 
 #### 3.0.2 响应式布局
 
@@ -218,11 +218,11 @@
 
 1. 桌面设备
 
-   ![image-20210809210634966](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809210634966.png)
+   ![d1](images/d1.png)
 
 2. 移动设备
 
-   ![image-20210809210728347](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809210728347.png)
+   ![d2](images/d2.png)
 
 #### 3.0.3 用户友好
 
@@ -232,13 +232,13 @@
 
    在用户进行注册等表单填写操作时，在输入框中通过弹出提示指导用户输入正确格式的内容。
 
-   ![image-20210809213201507](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809213201507.png)
+   ![t1](images/t1.png)
 
 2. 弹窗提示
 
    在用户错误操作导致不能指向目标页面或实现目标操作时，我们设计和弹窗提示页面。
 
-   ![image-20210809213335072](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809213335072.png)
+   ![t2](images/t2.png)
 
 3. 便捷操作
 
@@ -246,15 +246,15 @@
 
    before：
 
-   ![image-20210809213504890](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809213504890.png)
+   ![t3](images/t3.png)
 
    after：
 
-   ![image-20210809213853928](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809213853928.png)
+   ![t4](images/t4.png)
 
    为了让用户在长页面环境中的使用体验更佳，我们设计了回到顶部按钮，用户可以一键回到顶部。
 
-   ![image-20210809213908018](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809213908018.png)
+   ![t5](images/t5.png)
 
 ### 3.1 用户相关界面
 
@@ -519,13 +519,13 @@
 
 本组的前端技术主要使用Figma进行基础设计，通过Figma生成的CSS样式对Bootstrap的CSS样式进行调整与个性化设计，并同步更新JS文件。
 
-![image-20210809214620686](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809214620686.png)
+![l1](images/l1.png)
 
-![image-20210809214633031](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809214633031.png)
+![l2](images/l2.png)
 
 本组前端技术主要基于BootStrap4.0实现。
 
-![image-20210809214413626](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809214413626.png)
+![f1](images/f1.png)
 
 BootStrap是由Twitter的工程师们为了规范Twitter的网页开发而设计的前端框架，并在GitHub进行了开源。Bootstrap代码规范良好，提供了丰富的组件和方法，让前端开发工作变得更加简洁。Bootstrap是目前最受欢迎的HTML、CSS和JS框架。
 
@@ -542,7 +542,7 @@ Bootstrap的响应式格栅系统可以非常方便的让网页实现跨平台�
 
 Figma是一个向量图形编辑器和原型设计工具。可在Web完成跨平台即时协作的UI设计并自动生成CSS文件。它基于网页、Mac OS/Windows通用、着重于用户界面设计并强调即时协作，是目前除Sketch外最流行的UI设计工具，但是其跨平台的优势是Sketch所不具备的。
 
-![image-20210809214325679](C:\Users\Wilbur\AppData\Roaming\Typora\typora-user-images\image-20210809214325679.png)
+![f2](images/f2.png)
 
 ### 4.2 后端技术
 
